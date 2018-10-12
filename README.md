@@ -7,3 +7,13 @@ Checking out the repositories and how Git works
    <tag2 />
 </tag1>
 ```
+
+```cs
+using MyLib.NameSpace;
+public class TheClass{
+   private readonly theCount;
+   public TheClass(){
+      theCount = 10;
+   }
+}
+```
